@@ -7,3 +7,5 @@
 对于每个Python版本,此仓库包含以下内容。
 64位可执行安装程序(例如 python-3.8.0-amd64-full.exe)
 32 位可执行安装程序(例如 python-3.8.0-x86-full.exe)
+
+TG频道：https://t.me/for_win7
